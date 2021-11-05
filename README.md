@@ -4,6 +4,8 @@
 
 ### Hi there 👋
 
+<a href="https://stackexchange.com/users/4734827/iskuskov-alexander"><img src="https://stackexchange.com/users/flair/4734827.png" width="208" height="58" alt="profile for Iskuskov Alexander on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Iskuskov Alexander on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
 <!--
 **Iskuskov/Iskuskov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,8 +25,8 @@ Here are some ideas to get you started:
 
 :man_student: **Certifications:**
 
-<a href="http://bcert.me/slrrzwwen"><img src="https://bcert.me/bc/html/img/badges/generated/badge-7986.png" width="64" height="64" alt="Spring Professional Certificate" title="Spring Professional Certificate"/></a> 
-<a href="https://stackexchange.com/users/4734827/iskuskov-alexander"><img src="https://stackexchange.com/users/flair/4734827.png" width="208" height="58" alt="profile for Iskuskov Alexander on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Iskuskov Alexander on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=181D77838B3DD9ADD2D016938066277066C8B64ADAAB3980CC956724E9611D56"><img src="https://brm-workforce.oracle.com/pdf/certview/images/Oracle_Java_SE_11_Developer.png" width="150" height="150" alt="Spring Professional Certificate" title="Spring Professional Certificate"/></a> 
+<a href="http://bcert.me/slrrzwwen"><img src="https://bcert.me/bc/html/img/badges/generated/badge-7986.png" width="150" height="150" alt="Spring Professional Certificate" title="Spring Professional Certificate"/></a> 
 
 -----
 
