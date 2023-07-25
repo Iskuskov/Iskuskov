@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=181D77838B3DD9ADD2D016938066277066C8B64ADAAB3980CC956724E9611D56"><img src="https://brm-workforce.oracle.com/pdf/certview/images/Oracle_Java_SE_11_Developer.png" width="128" height="128" alt="Spring Professional Certificate" title="Spring Professional Certificate"/></a> 
 <a href="http://bcert.me/slrrzwwen"><img src="https://user-images.githubusercontent.com/1679537/140550516-51f0e2e2-163b-4a43-9d2d-b9b99ef90cf0.png" width="128" height="128" alt="Spring Professional Certificate" title="Spring Professional Certificate"/></a> 
+<a href="https://certification.mettl.com/datastax/applicant/result/download-certificate?key=TYCAqpWcB0bTy19j3nOd5w%3D%3D"><img src="https://github.com/Iskuskov/Iskuskov/assets/1679537/8bd5863d-5a04-4035-b944-6eec1a6f6004" width="128" height="128" alt="Apache Cassandra Developer Associate Certification" title="Apache Cassandra Developer Associate Certification"/></a> 
+<a href="https://www.credential.net/2a8f60a8-8e6d-4fb1-a190-b7e8807f7ad4#gs.30uj7f"><img src="https://github.com/Iskuskov/Iskuskov/assets/1679537/ad816d04-6523-4b26-97f5-26eea381f6d2" width="128" height="128" alt="Confluent Certified Administrator for Apache Kafka" title="Confluent Certified Administrator for Apache Kafka"/></a> 
+<a href="https://www.credential.net/2c24332c-33a1-47da-8dd4-101ca09f470f#gs.30uii8"><img src="https://github.com/Iskuskov/Iskuskov/assets/1679537/bc9a50a4-1e53-41e4-ae90-436f95b06db5" width="128" height="128" alt="Confluent Certified Developer for Apache Kafka" title="Confluent Certified Developer for Apache Kafka"/></a> 
 
 -----
 
